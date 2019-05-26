@@ -42,8 +42,8 @@ public class RajeshChrome {
 	  
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		//launching();
-		//launching1();
+		launching();
+		launching1();
 		launching2();
 	}
 
