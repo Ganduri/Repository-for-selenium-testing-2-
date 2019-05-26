@@ -12,7 +12,7 @@ public class RajeshChrome {
 	  
 	  public static void launching() throws InterruptedException {
 		 System.setProperty("webdriver.chrome.driver", "D:\\study\\Edureka selenium\\selenium\\Installation stuff\\exe files\\all browser drivers\\chromedriver_win32(2.46 version)\\chromedriver.exe");
-		WebDriver driver =new ChromeDriver();
+		 driver =new ChromeDriver();
 		 driver.get("https://www.youtube.com/watch?v=VQTx4eswiFY");
 		Thread.sleep(6000);
 		 driver.quit();
